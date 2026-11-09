@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Punjabi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Business Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ecommerce website**
+- 🔭 I’m currently working on **AI enabled Projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Pythone and Machine Learning**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **ML & AI**
 
 - 📫 How to reach me **punjabi.harsh2002@gmail.com**
 
